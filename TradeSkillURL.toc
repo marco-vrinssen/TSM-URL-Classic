@@ -4,4 +4,4 @@
 ## Version: 1.0
 ## Author: MIYANKO
 
-TradeSkillMasterURL.lua
+TradeSkillURL.lua
