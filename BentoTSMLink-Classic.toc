@@ -1,0 +1,7 @@
+## Interface: 11503
+## Title: Bento TSM Link
+## Notes: Adds a command to generate TSM online dashboard links for hovered over items.
+## Version: 1.0
+## Author: MIYANKO
+
+BentoTSMLink.lua

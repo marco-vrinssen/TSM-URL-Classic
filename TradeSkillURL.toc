@@ -1,7 +1,0 @@
-## Interface: 11503
-## Title: Trade Skill URL
-## Notes: Adds a command to generate TSM URLs for hovered over items.
-## Version: 1.0
-## Author: MIYANKO
-
-TradeSkillURL.lua
