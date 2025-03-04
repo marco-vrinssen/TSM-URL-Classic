@@ -1,6 +1,5 @@
 local frame = CreateFrame("Frame", "ItemLinkFrame", UIParent)
 
--- List of Season of Discovery servers for TSM
 local sodServers = {
     ["living-flame"] = true,
     ["crusader-strike"] = true,
@@ -10,7 +9,6 @@ local sodServers = {
     ["lava-lash"] = true
 }
 
--- StaticPopupDialog for item link URL
 StaticPopupDialogs["ITEM_LINK_URL"] = {
     text = "TradeSkillMaster Item Link",
     button1 = "Close",
